@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="658509eb-5806-43e5-9810-fce11976e78d" name="localmongo Mapping">
+      <data-sources db="cfceb353-bf31-46bd-9fbb-e388d2a2da6b" />
+    </mapping>
+  </component>
+</project>

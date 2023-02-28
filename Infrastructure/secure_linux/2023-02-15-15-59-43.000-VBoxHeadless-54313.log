@@ -1,0 +1,12 @@
+Log created: 2023-02-15T15:59:43.004105000Z
+Process ID:  54313 (0xd429)
+Parent PID:  1609 (0x649)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: secure_linux_default_1676476330181_85641
+Arg[3]: --startvm
+Arg[4]: 764de8bd-9819-4f98-9d41-47c7a4df4aba
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

@@ -1,0 +1,15 @@
+server:
+  port: 8080
+spring:
+  jpa:
+    properties.hibernate:
+      show_sql: false
+      hbm2ddl.auto: validate
+      format_sql: false
+  datasource:
+    url: jdbc:postgresql://localhost:54321/library
+    username: smartdom
+    password: smartdom
+    driver-class-name: org.postgresql.Driver
+  liquibase:
+    enabled: true
